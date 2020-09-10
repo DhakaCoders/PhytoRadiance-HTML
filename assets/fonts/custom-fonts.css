@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url('Montserrat-Regular/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Montserrat-Regular/Montserrat-Regular.otf')  format('opentype'),
+	url('Montserrat-Regular/Montserrat-Regular.woff') format('woff'),
+	url('Montserrat-Regular/Montserrat-Regular.ttf')  format('truetype'), 
+	url('Montserrat-Regular/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Medium';
+  src: url('Montserrat-Medium/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Montserrat-Medium/Montserrat-Medium.otf')  format('opentype'),
+	url('Montserrat-Medium/Montserrat-Medium.woff') format('woff'),
+	url('Montserrat-Medium/Montserrat-Medium.ttf')  format('truetype'), 
+	url('Montserrat-Medium/Montserrat-Medium.svg#Montserrat-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('Montserrat-Bold/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Montserrat-Bold/Montserrat-Bold.otf')  format('opentype'),
+	url('Montserrat-Bold/Montserrat-Bold.woff') format('woff'),
+	url('Montserrat-Bold/Montserrat-Bold.ttf')  format('truetype'), 
+	url('Montserrat-Bold/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CalisMTBold';
+  src: url('assets/fonts/CalisMTBold/CalisMTBold.woff2') format('woff2'),
+    url('assets/fonts/CalisMTBold/CalisMTBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SupriaSans-Regular';
+  src: url('assets/fonts/SupriaSans-Regular/SupriaSans-Regular.woff2') format('woff2'),
+    url('assets/fonts/SupriaSans-Regular/SupriaSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SupriaSans-Bold';
+  src: url('assets/fonts/SupriaSans-Bold/SupriaSans-Bold.woff2') format('woff2'),
+    url('assets/fonts/SupriaSans-Bold/SupriaSans-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
