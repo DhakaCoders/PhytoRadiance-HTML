@@ -22,7 +22,15 @@
   font-style: normal;
   font-display: swap;
 }
-font-family: 'CalisMTBold';
+@font-face {
+  font-family: 'Montserrat-Light';
+  src: url('assets/fonts/Montserrat-Light/Montserrat-Light.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-Light/Montserrat-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 @font-face {
   font-family: 'SupriaSans-Regular';
@@ -40,5 +48,50 @@ font-family: 'CalisMTBold';
   font-weight: normal;
   font-style: normal;
   font-display: swap;
+}
+
+@font-face {
+  font-family: 'SourceSansPro-Bold';
+  src: url('assets/fonts/SourceSansPro-Bold/SourceSansPro-Bold.woff2') format('woff2'),
+    url('assets/fonts/SourceSansPro-Bold/SourceSansPro-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow-Medium';
+  src: url('assets/fonts/Barlow-Medium/barlow-medium-webfont.woff2') format('woff2'),
+    url('assets/fonts/Barlow-Medium/barlow-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Barlow-Bold';
+  src: url('assets/fonts/Barlow-Bold/barlow-bold-webfont.woff2') format('woff2'),
+    url('assets/fonts/Barlow-Bold/barlow-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+/*@font-face {
+  font-family: 'Barlow-ExtraBold';
+  src: url('assets/fonts/Barlow-ExtraBold/barlow-extrabold-webfont.woff2') format('woff2'),
+    url('assets/fonts/Barlow-ExtraBold/barlow-extrabold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}*/
+@font-face {
+  font-family: 'BarlowCondensed-Bold';
+  src: url('assets/fonts/BarlowCondensed-Bold/barlowcondensed-bold-webfont.woff2') format('woff2'),
+    url('assets/fonts/BarlowCondensed-Bold/barlowcondensed-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'BarlowCondensed-Regular';
+  src: url('assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff2') format('woff2'),
+    url('assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 

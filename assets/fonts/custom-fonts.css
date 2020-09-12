@@ -33,11 +33,28 @@
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: 'Montserrat-Light';
+  src: url('assets/fonts/Montserrat-Light/Montserrat-Light.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-Light/Montserrat-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 @font-face {
   font-family: 'CalisMTBold';
   src: url('assets/fonts/CalisMTBold/CalisMTBold.woff2') format('woff2'),
     url('assets/fonts/CalisMTBold/CalisMTBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SourceSansPro-Bold';
+  src: url('assets/fonts/SourceSansPro-Bold/SourceSansPro-Bold.woff2') format('woff2'),
+    url('assets/fonts/SourceSansPro-Bold/SourceSansPro-Bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -59,6 +76,70 @@
   font-weight: normal;
   font-style: normal;
   font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Barlow-Medium';
+  src: url('Barlow-Medium/Barlow-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Barlow-Medium/Barlow-Medium.otf')  format('opentype'),
+	url('Barlow-Medium/Barlow-Medium.woff') format('woff'),
+	url('Barlow-Medium/Barlow-Medium.ttf')  format('truetype'), 
+	url('Barlow-Medium/Barlow-Medium.svg#Barlow-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: 'Barlow-Bold';
+  src: url('Barlow-Bold/Barlow-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Barlow-Bold/Barlow-Bold.otf')  format('opentype'),
+	url('Barlow-Bold/Barlow-Bold.woff') format('woff'),
+	url('Barlow-Bold/Barlow-Bold.ttf')  format('truetype'), 
+	url('Barlow-Bold/Barlow-Bold.svg#Barlow-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: 'Barlow-ExtraBold';
+  src: url('Barlow-ExtraBold/Barlow-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('Barlow-ExtraBold/Barlow-ExtraBold.otf')  format('opentype'),
+	url('Barlow-ExtraBold/Barlow-ExtraBold.woff') format('woff'),
+	url('Barlow-ExtraBold/Barlow-ExtraBold.ttf')  format('truetype'), 
+	url('Barlow-ExtraBold/Barlow-ExtraBold.svg#Barlow-ExtraBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: 'BarlowCondensed-Bold';
+  src: url('BarlowCondensed-Bold/BarlowCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+    url('BarlowCondensed-Bold/BarlowCondensed-Bold.otf')  format('opentype'),
+	url('BarlowCondensed-Bold/BarlowCondensed-Bold.woff') format('woff'),
+	url('BarlowCondensed-Bold/BarlowCondensed-Bold.ttf')  format('truetype'), 
+	url('BarlowCondensed-Bold/BarlowCondensed-Bold.svg#BarlowCondensed-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'BarlowCondensed-Regular';
+    src: url('BarlowCondensed-Regular/BarlowCondensed-Regular.eot');
+    src: url('BarlowCondensed-Regular/BarlowCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BarlowCondensed-Regular/BarlowCondensed-Regular.woff2') format('woff2'),
+        url('BarlowCondensed-Regular/BarlowCondensed-Regular.woff') format('woff'),
+        url('BarlowCondensed-Regular/BarlowCondensed-Regular.ttf') format('truetype'),
+        url('BarlowCondensed-Regular/BarlowCondensed-Regular.svg#BarlowCondensed-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 
