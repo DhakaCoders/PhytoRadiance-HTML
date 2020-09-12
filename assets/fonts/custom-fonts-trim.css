@@ -31,6 +31,26 @@
   font-display: swap;
 }
 
+@font-face {
+    font-family: 'CalistoMT';
+    src: url('assets/fonts/CalistoMT.woff2') format('woff2'),
+        url('assets/fonts/CalistoMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+  font-family: 'CalisMTBold';
+  src: url('assets/fonts/CalisMTBold/CalisMTBold.woff2') format('woff2'),
+    url('assets/fonts/CalisMTBold/CalisMTBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 @font-face {
   font-family: 'SupriaSans-Regular';
@@ -93,5 +113,14 @@
     url('assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
+}
+
+@font-face {
+  font-family: "MyriadPro-Regular";
+  src: url("assets/fonts/MyriadPro-Regular/MyriadPro-Regular.woff") format("woff"),
+    url("assets/fonts/MyriadPro-Regular/MyriadPro-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
