@@ -126,3 +126,31 @@ New---->
 	    font-family: 'Montserrat-Bold';
 	}*/
 
+4. https://prnt.sc/ugoah6
+	child dhore j icon gulo upore niche korecho, ai code gulo comment kore off rakho,
+	clint chaile pore on kore deoa jabe
+
+
+5. https://prnt.sc/ugoca9
+	left gap ta aro 10px hobe, BS ar ache 15px; r psd te ache 25px , tahole aro 10px left a lagteche
+	inner div a pdding dite paro
+
+
+6. https://prnt.sc/ugocvu
+	underline hobe
+
+7. https://prnt.sc/ugof5f
+	img ta (-) margin hobe, responsive a ai margin kintu off korte hobe, jokhon img ar grd full hobe.
+
+8. https://prnt.sc/ugog7u
+	ai shadow ta mileni
+
+9. https://prnt.sc/ugogqc
+	white amra koi thake nilam
+
+	hobe ai color ta - https://prnt.sc/ugoh08
+
+	text shadow ta amon daw--  0px 2px 0 #color-code
+
+
+
