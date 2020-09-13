@@ -103,3 +103,26 @@ Desktop---->
 	ai text gulo right a chapbe aro
 
 N.B: --- fix gulo thik thak holo kina check korte hobe, then kono problem thake group a msg koro
+
+
+
+New---->
+
+1. https://prnt.sc/ugo54b
+	left and right a 18px padding hobe
+
+	https://prnt.sc/ugo5kz
+	then ai des gulo top ar link text borabor hobe
+
+2. https://prnt.sc/ugo6h1
+	bold hobe
+
+3. https://prnt.sc/ugo8p6
+	text ta psd ar moto mileni
+	strong ar jonno common design koro 
+
+	/*strong{
+	    font-weight: normal;
+	    font-family: 'Montserrat-Bold';
+	}*/
+

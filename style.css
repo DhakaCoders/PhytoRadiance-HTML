@@ -256,7 +256,10 @@ h5 {
     margin-top: 0;
     line-height: 1.2;
 } 
-
+/*strong{
+    font-weight: normal;
+    font-family: 'Montserrat-Bold';
+}*/
 header.fl-hdr{
     background: #fff;
     -ms-transition: all 0.5s ease;
