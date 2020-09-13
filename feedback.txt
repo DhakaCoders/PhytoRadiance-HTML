@@ -1,0 +1,103 @@
+Desktop---->
+-------------------------
+
+1. https://prnt.sc/ugewsd
+	ai shadow ta mileni 
+
+2. https://prnt.sc/ugey7r
+	ai text psd ar moto lagtechena, text shadow hobe maybe
+
+3. https://prnt.sc/ugeyrc
+	halka text shadow hobe
+
+4. https://prnt.sc/ugezim
+	data-src missing ache onek jaygay, valo kore check kore update korte hobe
+
+5. https://prnt.sc/ugf0cl
+	img missing error aseteche akta
+
+6. https://prnt.sc/ugf217
+	img ta (-) margin-left a jabe, text borabor hobe , 
+	ai rokom niche aro case thakle seta update korte hobe
+
+7.  https://prnt.sc/ugf7z7
+	ata jpg formate a niye kore dekhlam , kono problem hoschena, tahole amra keno png formate niyechi?
+	
+
+	https://prnt.sc/ugf8f3
+	tumi j img ta crop korecho setate left a shadow na hoye border mone hosche
+
+	N.B:-- j j img gulo jpg use kora jay segulo jpg use korte hobe png use kora jabena, jodi jpg use korte pari  . maximum img ai jpg use kora jabe maybe, bcoz amader body bg white 
+
+
+8. https://prnt.sc/ugffiy
+	ai bg img ta , purotai use kora jabe, choto kore kete niye repeat korte hobe,
+	amon vabe kete nite hobe jate kore buja na jay j akta choto img repeat kora hoiche
+
+	N.B:--- ai rokom onno section gulor bg thakle segulo teo update korte hobe
+
+9. https://prnt.sc/ugfhg4
+	ai line ta bold hobe, nicher line ta na
+
+10. https://prnt.sc/ugfjpq
+	text ar line and img ar line ta mileni 
+
+11. i) https://prnt.sc/ugfk33
+	ii)https://prnt.sc/ugforh
+	iii) https://prnt.sc/ugfrpx
+	iv) https://prnt.sc/ugfs4j
+	v) https://prnt.sc/ugftgu
+
+
+	break hobe
+
+12. https://prnt.sc/ugfkw3
+	ai bg ar bottom ta psd ar moto mileni 
+
+13. https://prnt.sc/ugfmoi
+	bold hobena
+
+
+14. https://prnt.sc/ugfp5h
+	ai section ar bg fix ager motoi
+
+
+15. https://prnt.sc/ugfpnu
+	ai 5 ta upore hobe
+
+16. https://prnt.sc/ugfqcq
+	left and right gap ta psd ar moto mileni 
+
+
+17. https://prnt.sc/ugfqr3
+	ai bg ar bottom shape ta mileni
+
+
+18. https://prnt.sc/ugfr6q
+	ai gap ta aktu beshi mone hosche
+
+
+19. https://prnt.sc/ugfstd
+	https://prnt.sc/ugful2
+	uporer text borara bor nicher text thakbe, ager project amara j korechi amon , sekhan thake idea nite paro
+
+	N.B:-- amon aro jkhane jkhane ache fix korte hobe
+
+20. https://prnt.sc/ugfu3o
+	bg ar bottom ta psd ar moto mileni 
+
+
+21.  https://prnt.sc/ugfv4m
+	ai content gulor vitor diye akta bg ache , seta missing
+
+
+22. https://prnt.sc/ugfvwl
+	ai price 2 ta thik nai
+	ai khane thik korle baki price table ao update kore dite hobe mone kore
+
+23. https://prnt.sc/ugfxbj
+	shadow ta upore uthe geche
+
+
+24. https://prnt.sc/ugfxnr
+	ai text gulo right a chapbe aro
