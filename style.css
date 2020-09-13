@@ -256,10 +256,10 @@ h5 {
     margin-top: 0;
     line-height: 1.2;
 } 
-/*strong{
+strong{
     font-weight: normal;
     font-family: 'Montserrat-Bold';
-}*/
+}
 header.fl-hdr{
     background: #fff;
     -ms-transition: all 0.5s ease;
@@ -1467,7 +1467,8 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     z-index: 1;
 }
 .ftr-top-links ul {
-    padding-left: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
 }
 .ftr-top-links ul li {
     padding-bottom: 20px;
@@ -1496,6 +1497,7 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     float: left;
     margin: 0;
     padding-top: 10px;
+    font-family: 'Montserrat-Bold';
 }
 .fl-ftr-top-head span{
     display: inline-block;
@@ -1568,8 +1570,8 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     color: #c2adc2;
 }
 .fl-ftr-des {
-    padding-right: 65px;
-    padding-left: 10px;
+    padding-right: 50px;
+    padding-left: 15px;
 }
 
 
