@@ -1,22 +1,22 @@
 Desktop---->
 -------------------------
 
-1. https://prnt.sc/ugewsd
+1. https://prnt.sc/ugewsd ---done
 	ai shadow ta mileni 
 
 2. https://prnt.sc/ugey7r
 	ai text psd ar moto lagtechena, text shadow hobe maybe
 
-3. https://prnt.sc/ugeyrc
+3. https://prnt.sc/ugeyrc ---done
 	halka text shadow hobe
 
-4. https://prnt.sc/ugezim
+4. https://prnt.sc/ugezim --done
 	data-src missing ache onek jaygay, valo kore check kore update korte hobe
 
-5. https://prnt.sc/ugf0cl
+5. https://prnt.sc/ugf0cl --done
 	img missing error aseteche akta
 
-6. https://prnt.sc/ugf217
+6. https://prnt.sc/ugf217 ---done
 	img ta (-) margin-left a jabe, text borabor hobe , 
 	ai rokom niche aro case thakle seta update korte hobe
 
