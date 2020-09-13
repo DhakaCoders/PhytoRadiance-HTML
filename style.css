@@ -362,6 +362,18 @@ header.fl-hdr{
   background-size: cover !important;
   background-repeat: no-repeat !important;
   background-position: center center !important;
+  position: relative;
+}
+.fl-page-bnr:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -5px;
+    -webkit-box-shadow: 2px 8px 5px 2px  rgb(180, 179, 179);
+    -moz-box-shadow: 2px 8px 5px 2px  rgb(180, 179, 179);
+    box-shadow: 2px 8px 5px 2px  rgb(0, 0, 0);
+    z-index: 2;
 }
 
 .fl-page-bnr-cntlr h1{
@@ -397,6 +409,7 @@ header.fl-hdr{
 .fl-page-bnr-dsc h2{
    font-family: 'CalisMTBold'; 
    margin-bottom: 30px;
+   text-shadow: 0px 1px #fff;
 }
 .fl-page-bnr-dsc span{
     font-size: 32px;
@@ -428,8 +441,8 @@ header.fl-hdr{
     background-repeat: no-repeat!important;
     background-position: center center!important;
     background-size: 100% 100%!important;
-    margin-right: -5px;
-    margin-left: -5px;
+    margin-right: -10px;
+    margin-left: -10px;
     padding-left: 10px;
     padding-right: 10px;
     color: #000;
@@ -437,7 +450,6 @@ header.fl-hdr{
 }
 .fl-dsc-1-img img{
     width: 100%;
-    padding-right: 20px;
 }
 .fl-content-sec-2-bdr{
     background: #fff;
@@ -463,6 +475,7 @@ header.fl-hdr{
     border-top: 4px solid#512351;
     margin-top: -1px;
     padding-bottom: 35px;
+    padding-top: 20px;
 }
 .fl-content-sec-2-head-btm h2,
 .fl-content-sec-2-head-tp h2{
@@ -502,6 +515,7 @@ header.fl-hdr{
 }
 .fl-dsc-sec-2-tp-1-img {
     padding-top: 10px;
+    margin-left: -5px;
 }
 .fl-dsc-sec-2-tp-1-img img{
     width: 100%;
@@ -530,8 +544,10 @@ header.fl-hdr{
 .fl-dsc-sec-2-rgt-dsc{
     padding-right: 15px;
 }
-.fl-dsc-sec-2-lft-img{
-    padding-top: 15px;
+.fl-dsc-sec-2-lft-img {
+    padding-top: 20px;
+    margin-left: -5px;
+    margin-right: -10px;
 }
 .fl-dsc-sec-2-lft-img img{
     width: 100%;
@@ -582,6 +598,12 @@ header.fl-hdr{
     float: left;
 
 }
+.fl-health-risks-tp-wrp ul li:nth-child(2) .health-risks-box{
+    margin-top: -25px;
+}
+.fl-health-risks-tp-wrp ul li:nth-child(4) .health-risks-box{
+    margin-top: 25px;
+}
 .health-risks-box{
     text-align: center;
 }
@@ -589,7 +611,7 @@ header.fl-hdr{
     font-size: 24px;
     line-height: 26px;
     font-family: 'Montserrat-Medium';
-    margin-top: 20px;
+    margin-top: 28px;
     margin-bottom: 35px;
 }
 
@@ -668,6 +690,7 @@ header.fl-hdr{
 .fl-content-sec-4-rgt-img-1 img{
     width: 100%;
 }
+.fl-health-risks-tp-wrp ul li,
 .fl-health-risks-btm-wrp ul li{
     width: 25%;
     padding: 0 15px;
@@ -804,6 +827,9 @@ header.fl-hdr{
 .fl-content-sec-6-lft{
     margin-right: -23px;
 }
+.fl-content-sec-6-lft p span.fl-txt-line-bg{
+    font-family: 'Montserrat-Regular';
+}
 .fl-content-sec-6-rgt-img{
     padding-left: 10px;
 }
@@ -849,8 +875,9 @@ header.fl-hdr{
 }
 .fl-content-sec-9-wrap .fl-content-sec-6-head {
     border-radius: 0;
-    margin-left: 4px;
-    margin-right: 4px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 0;
 }
 
 .fl-content-sec-9-wrap{
@@ -860,6 +887,8 @@ header.fl-hdr{
     -webkit-box-shadow: 0 5px 5px 0px rgb(180, 179, 179);
     -moz-box-shadow: 0 5px 5px 0px rgb(180, 179, 179);
     box-shadow: 0 5px 5px 0px rgb(180, 179, 179);
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .fl-content-sec-9-full-img{
     text-align: center;
@@ -1012,7 +1041,11 @@ header.fl-hdr{
 .fl-dsc-sec-11-lft-img{
    text-align: center; 
 }
-
+.fl-content-sec-11-wrp {
+    margin-bottom: -295px;
+    position: relative;
+    z-index: 2;
+}
 .fl-content-sec-11-wrp .fl-content-sec-2-bdr{
     position: relative;
     overflow: hidden;
@@ -1040,8 +1073,20 @@ header.fl-hdr{
     bottom: 52%;
     z-index: -1;
 }
-.fl-pkg-section-1{
-    margin-top: 60px;
+.fl-pkg-section-1 {
+    padding-top: 360px;
+    position: relative;
+    z-index: 1;
+}
+.fl-pkg-section-1:before {
+    content: "";
+    position: absolute;
+    background: #fbf4d2;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 29%;
+    z-index: -1;
 }
 .fl-pkg-section-1 .fl-content-sec-4-head-btm-inr{
     margin-bottom: 78px !important;
@@ -1404,7 +1449,9 @@ header.fl-hdr{
 .fl-ftr-top-block{
    -webkit-box-shadow: 0px 0px 7px 1px rgba(207,205,205,1);
     -moz-box-shadow: 0px 0px 7px 1px rgba(207,205,205,1);
-    box-shadow: 0px 0px 7px 1px rgba(207,205,205,1); 
+    box-shadow: 0px 0px 7px 1px rgba(207,205,205,1);
+    position: relative;
+    z-index: 1;
 }
 .ftr-top-links ul {
     padding-left: 15px;
@@ -1454,6 +1501,8 @@ header.fl-hdr{
     padding: 55px 0 30px;
     font-size: 16px;
     line-height: 20px;
+    position: relative;
+    z-index: 2;
 }
 .fl-ftr-nav ul {
     padding-bottom: 25px;
@@ -1505,26 +1554,10 @@ header.fl-hdr{
     font-family: 'Montserrat-Light';
     color: #c2adc2;
 }
-.fl-ftr-des{
+.fl-ftr-des {
     padding-right: 65px;
+    padding-left: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 @media(max-width: 1199px){
@@ -1651,10 +1684,9 @@ header.fl-hdr{
         margin-bottom: 20px;
     }
     .fl-pkg-section-1 .fl-content-sec-4-head-btm-inr {
-        margin-bottom: 50px !important;
-    }
-    .fl-pkg-section-1 {
-        margin-top: 50px;
+        margin-bottom: 80px !important;
+        max-width: 580px;
+        width: 100%;
     }
     .pkg-area-con-bg {
         padding: 30px 0 30px;
@@ -1768,6 +1800,7 @@ header.fl-hdr{
     .fl-dsc-sec-2-tp-1-img {
         margin-right: 0;
         padding-top: 0;
+        margin-left: 0;
         text-align: center;
     }
     .fl-content-sec-12-lft-img img,
@@ -1987,6 +2020,9 @@ header.fl-hdr{
     .fl-content-sec-3-head {
         padding-bottom: 40px;
     }
+    .fl-pkg-section-1 .fl-content-sec-4-head-btm-inr {
+        margin-bottom: 40px !important;
+    }
 
 
     
@@ -2145,6 +2181,9 @@ header.fl-hdr{
     }
     .entry-text h4 {
         font-size: 25px;
+    }
+    .fl-health-risks-tp-wrp ul li:nth-child(2) .health-risks-box {
+        margin-top: 0;
     }
     
 }
