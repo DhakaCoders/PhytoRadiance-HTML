@@ -1450,6 +1450,9 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     line-height: 26px;
     font-weight: normal;
 }
+.thank-you-line strong a{
+    color: #124ce0;
+}
 
 .fl-ftr-top-block{
    -webkit-box-shadow: 0px 0px 7px 1px rgba(207,205,205,1);
@@ -2154,8 +2157,7 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
         content: none;
     }
     .ftr-top-links ul li a{
-        display: inline-block;
-        vertical-align: baseline;
+        display:block;
     }
     .ftr-top-links ul li a u {
         padding-right: 0;
@@ -2253,10 +2255,6 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     .ftr-top-links ul {
         padding-left: 10px;
     }
-    .ftr-top-links ul li {
-        font-size: 12px;
-        line-height: 14px;
-    }
     .fl-dsc-sec-2-tp h3 {
         font-size: 26px;
     }
@@ -2282,10 +2280,6 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     }
     .fl-ftr-top-head h3 {
         font-size: 32px;
-    }
-    .ftr-top-links ul li {
-        font-size: 10px;
-        line-height: 12px;
     }
     .entry-text h4 {
         font-size: 20px;
