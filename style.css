@@ -762,7 +762,6 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     min-height: 100px;
     display: flex;
     justify-content: left;
-    align-items: center;
 }
 .ln-sec-three-grid-item > i {
     position: absolute;
@@ -1596,8 +1595,15 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     h5 {
         font-size: 22px
     }
+    body{
+        font-size: 22px;
+    }
     .fl-ftr-top-head h3 {
         font-size: 42px;
+    }
+    .fl-page-bnr-dsc h4 br,
+    .fl-page-bnr-dsc h2 br{
+        display: block!important;
     }
     .hide-md{
         display: none!important;
@@ -1684,7 +1690,7 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     }
     
     .fl-pkg-grd-col-hdr span {
-        font-size: 28px;
+        font-size: 27px;
         line-height: 32px;
     }
     .order3 .fl-pkg-grd-col-fea-img {
@@ -1707,6 +1713,10 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
         margin-bottom: 80px !important;
         max-width: 580px;
         width: 100%;
+    }
+    .order3 .fl-pkg-grd-col-fea-img img,
+    .order2 .fl-pkg-grd-col-fea-img img{
+        max-height: 300px;
     }
     .pkg-area-con-bg {
         padding: 30px 0 30px;
@@ -1748,7 +1758,17 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     .fl-content-sec-10-wrp .ln-sec-three-grid > ul > li:nth-child(1) .ln-sec-three-grid-item > i {
         top: 10px;
     }*/
+    .health-risks-wrp-2 .health-risks-box-img{
+        min-height: 200px;
 
+    }
+    .fl-health-risks-tp-wrp.health-risks-wrp-2 ul li .health-risks-box{
+        margin-top: 0!important;
+    }
+    .fl-health-risks-tp-wrp.health-risks-wrp-2 ul li:nth-child(1) .health-risks-box,
+    .fl-health-risks-tp-wrp.health-risks-wrp-2 ul li:nth-child(2) .health-risks-box{
+        margin-top: -40px!important;
+    }
     
     
 
@@ -1795,6 +1815,10 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     }
     p br{
         display: none;
+    }
+    .fl-page-bnr-dsc h4 br,
+    .fl-page-bnr-dsc h2 br{
+        display: none!important;
     }
     .pull-right {
         float: none !important;
@@ -1907,7 +1931,7 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
         padding-bottom: 20px;
     }
     .ln-sec-three-grid-item {
-        min-height: 115px;
+        min-height: 92px;
         display: block;
     }
     .fl-content-sec-8-rgt-img{
@@ -2044,7 +2068,9 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     .fl-pkg-section-1 .fl-content-sec-4-head-btm-inr {
         margin-bottom: 40px !important;
     }
-
+    .fl-content-sec-11-angle{
+        display: none;
+    }
 
     
 }
@@ -2053,6 +2079,7 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     .fl-shipping h4 {
         font-size: 16px
     }
+
 }
 
 @media(max-width: 767px){
@@ -2134,10 +2161,25 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     .fl-content-sec-2-head-tp {
         padding: 10px 15px 20px;
     }
-
-
-
-    
+    .health-risks-wrp ul li{
+        padding-bottom: 20px;
+    }
+    .fl-health-risks-tp-wrp.health-risks-wrp-2 ul li .health-risks-box{
+        margin-top: 0!important;
+    }
+    .fl-health-risks-tp-wrp.health-risks-wrp-2 ul li:nth-child(1) .health-risks-box,
+    .fl-health-risks-tp-wrp.health-risks-wrp-2 ul li:nth-child(2) .health-risks-box{
+        margin-top: 0px!important;
+    }
+    .health-risks-wrp-2 .health-risks-box-img {
+        min-height: 180px;
+    }
+    .fl-ftr-top-head{
+        padding-left: 15px;
+    }
+    .fl-ftr-des{
+        padding-left: 0;
+    }
 }
 
 @media(max-width: 639px){
@@ -2181,6 +2223,9 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
         font-size: 16px;
         line-height: 18px;
     }
+    .ln-sec-three-grid-item {
+        min-height: auto;
+    }
 
 }
  
@@ -2204,6 +2249,22 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     }
     .fl-health-risks-tp-wrp ul li:nth-child(2) .health-risks-box {
         margin-top: 0;
+    }
+    .fl-content-sec-4-head-btm-inr{
+        background-size: cover!important;
+    }
+    .health-risks-wrp-2 .health-risks-box-img {
+        min-height: auto;
+    }
+    .order3 .fl-pkg-grd-col-fea-img span {
+        right: -20px;
+    }
+    .order1 .fl-pkg-grd-col-fea-img span {
+        top: 50px;
+        right: 15px;
+    }
+    .profile-show-dsc span img{
+        max-width: 150px;
     }
     
 }
@@ -2235,7 +2296,8 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
     .fl-shipping {
         margin-left: -15px;
         margin-right: -15px;
-        padding-bottom: 12px
+        padding-bottom: 12px;
+        padding-top: 5px;
     }
     
     .fl-shipping h4 {
