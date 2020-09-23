@@ -1594,6 +1594,10 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
 .has-underline{
     text-decoration: underline!important;
 }
+
+
+
+
 @media(max-width: 1199px){
     h1 {
         font-size: 38px
@@ -2424,3 +2428,38 @@ box-shadow: -1px 9px 6px -5px rgba(70,53,80,1);
 }
 
 
+
+
+/*new code*/
+.helth-fea-bx{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.helth-fea-bx p{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.mr-10{
+    margin-right: -10px;
+}
+.helth-fea-bx img{
+    padding-bottom: 5px;
+}
+
+@media(max-width: 991px){
+   .helth-fea-bx p{
+        padding-left: 10px;
+        padding-right: 10px;
+    } 
+    .helth-fea-bx .mr-10{
+        margin-right: 0;
+    }
+    .helth-fea-bx .ml-10{
+        margin-left: 0;
+    }
+    .helth-fea-bx-2{
+        padding-bottom: 50px;
+    }
+
+}
